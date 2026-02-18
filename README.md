@@ -1,6 +1,9 @@
 # CRDTKit
 
+[![Build & Tests](https://github.com/iMatkovic/CRDTKit/actions/workflows/main.yml/badge.svg)](https://github.com/iMatkovic/CRDTKit/actions/workflows/main.yml)
+
 A Swift implementation of a **state-based LWW-Element-Dictionary** (Last-Write-Wins Element Dictionary) — a Conflict-Free Replicated Data Type (CRDT) designed for use in distributed systems.
+
 
 Built as a standalone Swift Package with Swift 6 strict concurrency, full `Sendable` conformance, and comprehensive test coverage.
 
